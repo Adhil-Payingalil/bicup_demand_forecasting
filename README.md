@@ -13,7 +13,7 @@ The primary goal was to:
 
 ## Dataset
 
-*   **Source:** `bicup2006.xlsx` (BICUP 2006 competition data)
+*   **Source:** `bicup.xlsx` (BICUP  competition data)
 *   **Frequency:** 15-minute intervals
 *   **Duration:** ~3 weeks (March 1st - March 21st, 2005)
 
@@ -41,7 +41,7 @@ The Prophet model demonstrated the best performance on the test set based on RMS
 *   `bicup_jupyter_notebook.ipynb`: The main Jupyter Notebook containing the Python code for data loading, cleaning, EDA, modeling, evaluation, and visualization.
 *   `bicup_demand_forecasting_report.pdf`: A detailed report summarizing the analysis, findings, model comparison, and business recommendations.
 *   `bicup2006.xlsx`: The dataset used for this analysis.
-*   *(Optional: Add `bicup_demand_forecasting.ipynb` if it's different and explain its purpose, otherwise consider removing the duplicate)*
+*   *`bicup_demand_forecasting.pdf` : Notebook pdf
 
 ## Portfolio Link
 
