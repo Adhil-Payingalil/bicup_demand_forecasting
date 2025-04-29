@@ -45,8 +45,8 @@ The Prophet model demonstrated the best performance on the test set based on RMS
 
 ## Portfolio Link
 
-For a more detailed project description and portfolio presentation, please visit:
-**[https://lapis-school-f5e.notion.site/Forecasting-Soft-Drink-Demand-A-Time-Series-Modeling-Challenge-1e4ca101e46980c3bae1dce842751774?pvs=4]**
+For a more detailed project description and portfolio presentation, ckeck out:
+**https://lapis-school-f5e.notion.site/Forecasting-Soft-Drink-Demand-A-Time-Series-Modeling-Challenge-1e4ca101e46980c3bae1dce842751774?pvs=4**
 
 ## Tech stack
 
